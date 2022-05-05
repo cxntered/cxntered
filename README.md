@@ -1,6 +1,6 @@
-### Hi there, I'm cxntered 👋
+### hey there, i'm cxntered 👋
 
-I'm a Discord bot developer, and I own [Amethyst](https://amethystbot.xyz)
+i'm a discord bot developer, and i own [Amethyst](https://amethystbot.xyz), a bot that allows you to track Hypixel stats.
 
 ### Languages and Tools
 <img align="left" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png" width="30px" alt="Visual Studio Code"/>
@@ -14,10 +14,10 @@ I'm a Discord bot developer, and I own [Amethyst](https://amethystbot.xyz)
 <br />
 
 ### Socials
-[Twitter](https://twitter.com/cxntered)
+**Discord:** `cxntered#8012`
 
-[YouTube](https://www.youtube.com/channel/UC3mAkkxSf13FFDsJxGaikig)
+**Twitter:** [`https://twitter.com/cxntered`](https://twitter.com/cxntered)
 
-[Reddit](https://www.reddit.com/u/cxntered)
+**YouTube:** [`https://youtube.com/channel/UC3mAkkxSf13FFDsJxGaikig`](https://youtube.com/channel/UC3mAkkxSf13FFDsJxGaikig)
 
-Discord: cxntered#8012
+**Solo.to:** [`https://solo.to/cxntered`](https://solo.to/cxntered)
