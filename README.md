@@ -1,6 +1,6 @@
 ### hey there, i'm cxntered 👋
 
-i'm a discord bot developer, and i own [Amethyst](https://amethystbot.xyz), a bot that allows you to track Hypixel stats.
+i'm a developer of all sorts of things (mainly discord bots), and i own [Amethyst](https://amethystbot.xyz), a bot that allows you to track Hypixel stats.
 
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
@@ -16,10 +16,12 @@ i'm a discord bot developer, and i own [Amethyst](https://amethystbot.xyz), a bo
 <br />
 ---
 ### Socials
-**Discord:** `cxntered#8012`
-
 **Twitter:** [`https://twitter.com/cxntered`](https://twitter.com/cxntered)
 
 **YouTube:** [`https://youtube.com/channel/UC3mAkkxSf13FFDsJxGaikig`](https://youtube.com/channel/UC3mAkkxSf13FFDsJxGaikig)
 
 **Solo.to:** [`https://solo.to/cxntered`](https://solo.to/cxntered)
+
+**Discord:**
+
+[![Discord Presence](https://lanyard.cnrad.dev/api/638695599893643274)](https://discord.com/users/638695599893643274)
