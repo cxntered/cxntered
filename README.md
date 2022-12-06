@@ -16,11 +16,13 @@ i'm a developer of all sorts of things (mainly discord bots), and i own [Amethys
 <br />
 ---
 ### Socials
+**Website:** [`https://cxntered.me`](https://cxntered.me)
+
+**Solo.to:** [`https://solo.to/cxntered`](https://solo.to/cxntered)
+
 **Twitter:** [`https://twitter.com/cxntered`](https://twitter.com/cxntered)
 
 **YouTube:** [`https://youtube.com/channel/UC3mAkkxSf13FFDsJxGaikig`](https://youtube.com/channel/UC3mAkkxSf13FFDsJxGaikig)
-
-**Solo.to:** [`https://solo.to/cxntered`](https://solo.to/cxntered)
 
 **Discord:**
 
