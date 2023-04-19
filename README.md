@@ -22,8 +22,6 @@ i'm a developer of all sorts of things (mainly discord bots), and i own [Amethys
 
 **Twitter:** [`https://twitter.com/cxntered`](https://twitter.com/cxntered)
 
-**YouTube:** [`https://youtube.com/channel/UC3mAkkxSf13FFDsJxGaikig`](https://youtube.com/channel/UC3mAkkxSf13FFDsJxGaikig)
-
 **Discord:**
 
 [![Discord Presence](https://lanyard.cnrad.dev/api/638695599893643274)](https://discord.com/users/638695599893643274)
