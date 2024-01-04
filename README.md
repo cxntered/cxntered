@@ -17,7 +17,7 @@ i'm a developer of all sorts of things (mainly discord bots), and i own [Amethys
 <br />
 ---
 ### Socials
-**Website:** [`https://cxntered.me`](https://cxntered.me)
+**Website:** [`https://cxntered.dev`](https://cxntered.dev)
 
 **Solo.to:** [`https://solo.to/cxntered`](https://solo.to/cxntered)
 
