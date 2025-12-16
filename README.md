@@ -1,17 +1,7 @@
-### hey there, i'm cxntered 👋
+### hey there, i'm [`cxntered`](https://cxntered.dev) 👋
 
-i'm a developer of all sorts of things, and i own [Amethyst](https://amethystbot.rocks), a bot that allows you to track Hypixel stats.
+dumbass nerd who makes stupid things for my use & enjoyment ( ᵔ ⩊ ᵔ )
 
-[![My Skills](https://skillicons.dev/icons?theme=dark&i=js,ts,html,css,nodejs,react,nextjs,tailwind,java,kotlin,py)](https://skillicons.dev)
-<br />
----
-### Socials
-**Website:** [`https://cxntered.dev`](https://cxntered.dev)
+## <img src="https://skillicons.dev/icons?theme=dark&i=js,ts,nodejs,html,css,react,java,kotlin,py" alt="my skills :3" style="width: 50%; height: auto;" />
 
-**Solo.to:** [`https://solo.to/cxntered`](https://solo.to/cxntered)
-
-**Twitter:** [`https://twitter.com/cxntered`](https://twitter.com/cxntered)
-
-**Discord:**
-
-[![Discord Presence](https://lanyard.cnrad.dev/api/638695599893643274)](https://discord.com/users/638695599893643274)
+[![discord account](https://lanyard.cnrad.dev/api/638695599893643274?hideActivity=whenNotUsed)](https://discord.com/users/638695599893643274)
